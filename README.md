@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 124 | 20 |
+| 125 | 20 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (2)
 - [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (22)
+- [brute force](#brute-force) (23)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (9)
 - [data structures](#data-structures) (1)
@@ -25,12 +25,12 @@
 - [games](#games) (3)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (28)
+- [greedy](#greedy) (29)
 - [implementation](#implementation) (72)
 - [math](#math) (43)
 - [number theory](#number-theory) (7)
 - [sortings](#sortings) (13)
-- [strings](#strings) (20)
+- [strings](#strings) (21)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -79,6 +79,7 @@
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
+| 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
@@ -175,6 +176,7 @@
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.cpp) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
+| 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1837B | [Comparison String](https://codeforces.com/contest/1837/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1837/B%20-%20Comparison%20String/solution.cpp) |
@@ -364,6 +366,7 @@
 | 1674C | [Infinite Replacement](https://codeforces.com/contest/1674/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1674/C%20-%20Infinite%20Replacement/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
+| 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1829/A%20-%20Love%20Story/solution.cpp) |
 | 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1883/B%20-%20Chemistry/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
