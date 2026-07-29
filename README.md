@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 128 | 20 |
+| 129 | 20 |
 
 ---
 
@@ -25,9 +25,9 @@
 - [games](#games) (3)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (29)
+- [greedy](#greedy) (30)
 - [implementation](#implementation) (73)
-- [math](#math) (43)
+- [math](#math) (44)
 - [number theory](#number-theory) (7)
 - [sortings](#sortings) (14)
 - [strings](#strings) (23)
@@ -171,6 +171,7 @@
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.cpp) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.cpp) |
+| 805A | [Fake NP](https://codeforces.com/contest/805/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/805/A%20-%20Fake%20NP/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1294C | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1294/C%20-%20Product%20of%20Three%20Numbers/solution.cpp) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
@@ -288,6 +289,7 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
+| 805A | [Fake NP](https://codeforces.com/contest/805/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/805/A%20-%20Fake%20NP/solution.cpp) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.cpp) |
 | 1294C | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1294/C%20-%20Product%20of%20Three%20Numbers/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
