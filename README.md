@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 132 | 20 |
+| 133 | 20 |
 
 ---
 
@@ -25,12 +25,12 @@
 - [games](#games) (3)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (31)
+- [greedy](#greedy) (32)
 - [implementation](#implementation) (74)
 - [math](#math) (44)
 - [number theory](#number-theory) (7)
 - [sortings](#sortings) (15)
-- [strings](#strings) (25)
+- [strings](#strings) (26)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -178,6 +178,7 @@
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1174A | [Ehab Fails to Be Thanos](https://codeforces.com/contest/1174/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1174/A%20-%20Ehab%20Fails%20to%20Be%20Thanos/solution.cpp) |
 | 1294C | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1294/C%20-%20Product%20of%20Three%20Numbers/solution.cpp) |
+| 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.cpp) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
@@ -375,6 +376,7 @@
 | 988B | [Substrings Sort](https://codeforces.com/contest/988/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/988/B%20-%20Substrings%20Sort/solution.cpp) |
 | 1151A | [Maxim and Biology](https://codeforces.com/contest/1151/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1151/A%20-%20Maxim%20and%20Biology/solution.cpp) |
 | 1278A | [Shuffle Hashing](https://codeforces.com/contest/1278/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1278/A%20-%20Shuffle%20Hashing/solution.cpp) |
+| 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1674C | [Infinite Replacement](https://codeforces.com/contest/1674/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1674/C%20-%20Infinite%20Replacement/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
