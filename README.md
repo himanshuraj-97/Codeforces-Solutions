@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 135 | 20 |
+| 136 | 20 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (26)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (11)
+- [constructive algorithms](#constructive-algorithms) (12)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (5)
@@ -30,7 +30,7 @@
 - [math](#math) (44)
 - [number theory](#number-theory) (7)
 - [sortings](#sortings) (15)
-- [strings](#strings) (28)
+- [strings](#strings) (29)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -104,6 +104,7 @@
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 1174A | [Ehab Fails to Be Thanos](https://codeforces.com/contest/1174/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1174/A%20-%20Ehab%20Fails%20to%20Be%20Thanos/solution.cpp) |
 | 1304B | [Longest Palindrome](https://codeforces.com/contest/1304/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1304/B%20-%20Longest%20Palindrome/solution.cpp) |
+| 1342B | [Binary Period](https://codeforces.com/contest/1342/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1342/B%20-%20Binary%20Period/solution.cpp) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
@@ -382,6 +383,7 @@
 | 1151A | [Maxim and Biology](https://codeforces.com/contest/1151/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1151/A%20-%20Maxim%20and%20Biology/solution.cpp) |
 | 1278A | [Shuffle Hashing](https://codeforces.com/contest/1278/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1278/A%20-%20Shuffle%20Hashing/solution.cpp) |
 | 1304B | [Longest Palindrome](https://codeforces.com/contest/1304/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1304/B%20-%20Longest%20Palindrome/solution.cpp) |
+| 1342B | [Binary Period](https://codeforces.com/contest/1342/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1342/B%20-%20Binary%20Period/solution.cpp) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1674C | [Infinite Replacement](https://codeforces.com/contest/1674/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/himanshuraj-97/Codeforces-Solutions/blob/HEAD/1674/C%20-%20Infinite%20Replacement/solution.cpp) |
